@@ -13,6 +13,9 @@ import p6 from './images/p6.png';
 import p7 from './images/p7.webp';
 import p8 from './images/p8.png';
 import pay from './images/pay.png'
+import reg from './images/reg.jpeg'
+import log from './images/log.webp'
+import cart from './images/cart.png'
 
 const images = {
   one,
@@ -30,6 +33,9 @@ const images = {
   p7,
   p8,
   pay,
+  reg,
+  log,
+  cart,
 };
 
 function GetImage(key) {
